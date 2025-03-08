@@ -1,0 +1,94 @@
+Tweet_ID,Customer_ID,inbound,created_at,text,response_tweet_id,in_response_to_tweet_id
+119237,17850,TRUE,Wed Oct 11 06:55:44 +0000 2017,The checkout process is way too slow!,119236,
+119238,13047,FALSE,Wed Oct 11 13:25:49 +0000 2017,My order was canceled without any explanation.,,119239
+119239,12583,TRUE,Wed Oct 11 13:00:09 +0000 2017,I received the wrong item and customer service isn’t responding.,119238,
+119240,13748,FALSE,Tue Oct 10 15:16:08 +0000 2017,Your website keeps crashing whenever I try to make a payment.,119241,119242
+119241,15291,TRUE,Tue Oct 10 15:17:21 +0000 2017,Why does it take so long to process a refund?,119243,119240
+119243,14688,FALSE,Tue Oct 10 15:25:14 +0000 2017,My delivery is delayed again. This is unacceptable.,119244,119241
+119244,15311,TRUE,Tue Oct 10 15:26:44 +0000 2017,I was charged twice for the same order!,119245,119243
+119245,14527,FALSE,Tue Oct 10 15:33:22 +0000 2017,"The discount code isn’t working, even though it says it’s valid.",,119244
+119242,16098,TRUE,Tue Oct 10 15:09:00 +0000 2017,The store staff was rude and unhelpful.,119240,119246
+119246,18074,FALSE,Tue Oct 10 10:13:19 +0000 2017,"I bought a product, and it stopped working after one use!",119242,119247
+119248,17420,FALSE,Wed Oct 11 13:38:29 +0000 2017,The return policy is confusing and unfair.,,119249
+119249,16029,TRUE,Wed Oct 11 07:37:27 +0000 2017,I’ve been on hold for over an hour trying to reach support.,119248,119250
+119250,16250,TRUE,Wed Oct 11 05:33:17 +0000 2017,"My package was marked as delivered, but I never received it.","1,19,24,91,19,251",
+119252,12431,FALSE,Wed Oct 11 13:40:27 +0000 2017,The quality of the product is not as advertised.,,119253
+119253,17511,TRUE,Wed Oct 11 07:21:34 +0000 2017,Why are your prices higher than what was shown online?,119252,
+119254,17548,FALSE,Wed Oct 11 13:41:25 +0000 2017,Your store ran out of stock right when I needed this item!,119255,119256
+119255,13705,TRUE,Wed Oct 11 13:45:59 +0000 2017,Your chatbot is useless—it keeps giving irrelevant responses.,119257,119254
+119257,13408,FALSE,Wed Oct 11 14:00:48 +0000 2017,The customer service rep hung up on me!,119258,119255
+119258,13767,TRUE,Wed Oct 11 14:01:58 +0000 2017,Why is it so hard to track my shipment?,119259,119257
+119259,17850,FALSE,Wed Oct 11 14:20:00 +0000 2017,"I got a defective item, and now I have to pay for return shipping?",119260,119258
+119260,17924,TRUE,Wed Oct 11 14:22:05 +0000 2017,Your app keeps freezing when I try to add items to my cart.,119261,119259
+119261,13448,FALSE,Wed Oct 11 14:41:35 +0000 2017,"I booked an express delivery, but it’s still not here after three days!",,119260
+119256,15862,TRUE,Wed Oct 11 12:53:29 +0000 2017,Your loyalty points system never credits me properly.,119254,
+119262,15513,FALSE,Wed Oct 11 13:30:39 +0000 2017,The product description was misleading—I feel scammed!,,119263
+119263,12791,TRUE,Wed Oct 11 06:29:07 +0000 2017,Why are some products available online but not in-store?,119262,
+119264,16218,FALSE,Wed Oct 11 13:36:31 +0000 2017,The store didn’t honor my gift card.,,119265
+119265,14045,TRUE,Wed Oct 11 10:42:43 +0000 2017,Customer support keeps transferring me to different departments.,"1,19,26,41,19,266",
+119267,17850,FALSE,Wed Oct 11 13:30:38 +0000 2017,"My item arrived damaged, and I can’t get a replacement.",,119268
+119268,14307,TRUE,Wed Oct 11 06:27:16 +0000 2017,"I was promised a discount at checkout, but I didn’t get it!",119267,
+119269,17908,FALSE,Wed Oct 11 13:30:12 +0000 2017,You guys need to fix your website—it crashes all the time.,,119270
+119270,17920,TRUE,Wed Oct 11 06:49:50 +0000 2017,I was given a fake tracking number.,119269,119271
+119271,12838,FALSE,Wed Oct 11 03:26:00 +0000 2017,Why do I have to jump through so many hoops to cancel my subscription?,119270,119272
+119272,13255,TRUE,Wed Oct 11 02:19:23 +0000 2017,You sent me an expired product!,119271,
+119273,16583,FALSE,Wed Oct 11 13:13:14 +0000 2017,"I was overcharged, and I can’t even get a response from support.",,119274
+119274,18085,TRUE,Wed Oct 11 12:50:07 +0000 2017,Why is there a restocking fee for returning an unused item?,119273,
+119275,13758,FALSE,Wed Oct 11 13:42:46 +0000 2017,"The store was pretty crowded today, but checkout was smooth.",,119276
+119276,13694,TRUE,Wed Oct 11 13:38:04 +0000 2017,"I got my order, but the packaging was a bit damaged.",119275,
+119277,15983,FALSE,Wed Oct 11 13:29:53 +0000 2017,"Your website layout is nice, but navigation could be improved.",,119278
+119278,14849,TRUE,Wed Oct 11 13:24:06 +0000 2017,Why does your app log me out automatically every time?,119277,
+119279,17968,FALSE,Wed Oct 11 13:35:01 +0000 2017,"I received my order, but one item was missing.",,119280
+119280,14849,TRUE,Wed Oct 11 07:13:34 +0000 2017,Your return policy could be a little more flexible.,119279,
+119281,16210,FALSE,Wed Oct 11 13:31:32 +0000 2017,"The prices are competitive, but I wish there were more sales.",119282,119283
+119282,17897,TRUE,Wed Oct 11 13:46:20 +0000 2017,"I had to wait a bit in line, but overall, the experience was okay.",119284,119281
+119284,17377,FALSE,Wed Oct 11 14:07:15 +0000 2017,"Your store has a good selection, but I couldn’t find my size.",119285,119282
+119285,16552,TRUE,Thu Oct 12 10:25:35 +0000 2017,"The delivery was on time, but the box was left in the rain.",119286,119284
+119286,17181,FALSE,Thu Oct 12 11:43:57 +0000 2017,"Customer service was polite, but they took too long to resolve my issue.",119287,119285
+119287,17897,TRUE,Thu Oct 12 12:04:21 +0000 2017,"I like shopping here, but the aisles feel too cramped.",119288,119286
+119288,17951,FALSE,Thu Oct 12 12:09:13 +0000 2017,"Your online store works fine, but I prefer shopping in person.",,119287
+119283,14729,TRUE,Wed Oct 11 12:37:46 +0000 2017,I had to call twice to confirm my order details.,119281,
+119289,12748,FALSE,Wed Oct 11 13:44:29 +0000 2017,"The product is good, but I wish the packaging was more eco-friendly.","1,19,29,01,19,291",119292
+119290,15012,TRUE,Wed Oct 11 13:48:49 +0000 2017,"It took a bit longer than expected, but my issue was resolved.",,119289
+119291,12868,TRUE,Wed Oct 11 15:44:02 +0000 2017,"Your in-store pickup option is useful, but the wait time was longer than expected.",,119289
+119292,17572,TRUE,Wed Oct 11 08:06:34 +0000 2017,"The mobile app works well, but it could use some updates.",119289,
+119293,14078,FALSE,Wed Oct 11 13:30:00 +0000 2017,"I love the product, but I wish shipping was faster.",,119294
+119294,14001,TRUE,Wed Oct 11 07:03:47 +0000 2017,"The sales staff was friendly, but not very knowledgeable about the products.",119293,
+119295,12662,FALSE,Wed Oct 11 13:39:32 +0000 2017,"The gift-wrapping service is nice, but a bit pricey.",119296,119297
+119296,15525,TRUE,Wed Oct 11 13:55:48 +0000 2017,"The store layout is okay, but I had trouble finding the exit.",,119295
+119297,14237,TRUE,Wed Oct 11 13:34:46 +0000 2017,"I like the selection, but it could be more diverse.",119295,
+119298,17905,FALSE,Wed Oct 11 13:34:00 +0000 2017,"It took some time, but I eventually found what I needed.",,119299
+119299,15485,TRUE,Wed Oct 11 07:16:18 +0000 2017,"The checkout process was smooth, but the cashier seemed tired.",119298,
+119300,12433,FALSE,Wed Oct 11 13:31:27 +0000 2017,"The customer service rep was helpful, but I had to repeat my issue twice.",,119301
+119301,16955,TRUE,Wed Oct 11 08:50:14 +0000 2017,"The self-checkout kiosks work well, but sometimes they freeze.",119300,
+119266,15350,FALSE,Wed Oct 11 13:37:15 +0000 2017,The email confirmation took longer than expected.,119302,119265
+119302,15605,TRUE,Wed Oct 11 13:47:24 +0000 2017,The new store layout is different—I’m not sure if I like it yet.,119303,119266
+119303,18144,FALSE,Wed Oct 11 16:28:34 +0000 2017,"The payment system was down, so I had to wait.",,119302
+119304,15922,FALSE,Wed Oct 11 13:42:00 +0000 2017,I had a great experience with customer service today!,119305,119306
+119305,14594,TRUE,Wed Oct 11 13:49:52 +0000 2017,My package arrived earlier than expected—so happy!,,119304
+119306,15165,TRUE,Wed Oct 11 13:27:49 +0000 2017,The store was clean and well-organized.,"1,19,30,41,19,307",
+119308,14911,FALSE,Wed Oct 11 13:33:07 +0000 2017,Love your products! Will definitely shop here again.,119309,119310
+119309,16456,TRUE,Wed Oct 11 13:33:43 +0000 2017,Your app is very user-friendly!,,119308
+119310,17481,TRUE,Wed Oct 11 13:31:06 +0000 2017,I got a great deal on my purchase—thank you!,119308,119311
+119311,12472,FALSE,Wed Oct 11 13:28:34 +0000 2017,The sales associate was super helpful and kind.,"1,19,31,01,19,312",119313
+119313,17346,TRUE,Wed Oct 11 12:29:52 +0000 2017,I love how easy it is to return items with you!,119311,119314
+119314,17643,FALSE,Wed Oct 11 12:17:02 +0000 2017,The cashier was very polite and even gave me a discount!,119313,119315
+119315,17841,TRUE,Wed Oct 11 12:14:41 +0000 2017,I found exactly what I was looking for in just a few minutes.,"1,19,31,61,19,314",
+119317,13093,FALSE,Wed Oct 11 13:42:19 +0000 2017,The in-store pickup was quick and hassle-free!,119318,119319
+119318,12921,TRUE,Wed Oct 11 13:43:09 +0000 2017,Customer support was very patient and helpful.,119320,119317
+119320,13468,FALSE,Wed Oct 11 13:45:00 +0000 2017,The online chat support solved my issue in just five minutes!,119321,119318
+119321,17760,TRUE,Wed Oct 11 13:48:39 +0000 2017,My order was packaged really well—no damage at all!,119322,119320
+119322,13468,FALSE,Wed Oct 11 13:49:29 +0000 2017,Your loyalty program is the best—so many rewards!,,119321
+119319,16928,TRUE,Wed Oct 11 13:36:32 +0000 2017,The live chat feature is super convenient!,119317,
+119323,16048,FALSE,Wed Oct 11 13:55:31 +0000 2017,"Shipping was fast, and everything was as described.",,119324
+119324,16274,TRUE,Wed Oct 11 08:52:14 +0000 2017,I love that you offer free returns—so convenient!,119323,119325
+119325,14696,FALSE,Wed Oct 11 00:19:34 +0000 2017,The gift-wrapping service was beautiful!,119324,119326
+119326,16539,TRUE,Tue Oct 10 23:09:08 +0000 2017,Best shopping experience I’ve had in a while.,119325,
+119327,17025,FALSE,Wed Oct 11 13:36:36 +0000 2017,Your team went above and beyond to help me find what I needed.,,119328
+119328,13777,TRUE,Wed Oct 11 02:04:50 +0000 2017,I got a refund processed instantly—amazing service!,119327,
+119329,17690,FALSE,Wed Oct 11 13:56:00 +0000 2017,The store staff made me feel welcome and appreciated.,,119330
+119330,12947,TRUE,Wed Oct 11 13:50:42 +0000 2017,The customer service agent was so understanding and helpful.,119329,119331
+119331,13777,TRUE,Wed Oct 11 13:47:14 +0000 2017,I love the personalized recommendations on your website!,119330,
+119332,17460,FALSE,Wed Oct 11 13:34:06 +0000 2017,This was the easiest online shopping experience ever!,119333,119334
+119333,18229,TRUE,Wed Oct 11 14:05:18 +0000 2017,My complaint was handled quickly and professionally.,"1,19,33,51,19,336",119332
+119335,14142,FALSE,Wed Oct 11 15:38:07 +0000 2017,The checkout process was fast and smooth!,,119333
