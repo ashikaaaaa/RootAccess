@@ -15,7 +15,7 @@ app.add_middleware(
 )
 
 # Securely set Deepgram API Key
-DEEPGRAM_API_KEY = "bba0e63ccdf08795352c3f7f6407ffddde92c7a1"
+DEEPGRAM_API_KEY = os.getenv("DEEPGRAM_AI_API_KEY")
 deepgram = Deepgram(DEEPGRAM_API_KEY)
 
 @app.post("/transcribe")
